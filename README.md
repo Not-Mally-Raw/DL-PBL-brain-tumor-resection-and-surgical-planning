@@ -9,17 +9,6 @@
 **An end-to-end autonomous neurosurgical planning framework** that combines **3D multi-modal Deep Learning** for perception with **Continuous-Space Reinforcement Learning** for trajectory optimization. The system bridges discrete tumor segmentation with kinematically constrained, safety-aware surgical tool paths, replacing sparse binary rewards with dense probabilistic safety gradients.
 
 ---
-# 3D Resection & Surgical Planning of Brain Tumors Using Deep Learning + Reinforcement Learning (DL + RL)
-
-[![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch_2.0+-ee4c2c?logo=pytorch)](https://pytorch.org/)
-[![MONAI: Medical AI](https://img.shields.io/badge/MONAI-1.3+-00A67E?logo=monai)](https://monai.io/)
-[![RL: Stable-Baselines3](https://img.shields.io/badge/RL-Stable--Baselines3-2A62BC)](https://stable-baselines3.readthedocs.io/)
-[![Environment: Gymnasium](https://img.shields.io/badge/Environment-Gymnasium-008080)](https://gymnasium.farama.org/)
-[![UI: Plotly Dash](https://img.shields.io/badge/Dashboard-Plotly_Dash-3F4F75?logo=plotly)](https://dash.plotly.com/)
-
-**An end-to-end autonomous neurosurgical planning framework** that combines **3D multi-modal Deep Learning** for perception with **Continuous-Space Reinforcement Learning** for trajectory optimization. The system bridges discrete tumor segmentation with kinematically constrained, safety-aware surgical tool paths, replacing sparse binary rewards with dense probabilistic safety gradients.
-
----
 
 ## Architecture Overview
 
